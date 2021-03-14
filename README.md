@@ -1,4 +1,4 @@
-# AutoApiSecret
+# MsApiSS(雾)
 ### 项目说明 ###
 * github action定时自动运行api调用E5。
 * 免费，不需要额外设备/服务器，部署完不用管啦。
